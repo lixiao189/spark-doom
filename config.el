@@ -80,3 +80,4 @@
 ;; Set the size of the windows
 (set-frame-width (selected-frame) 110)
 (set-frame-height(selected-frame) 40)
+(setq centaur-tabs-show-navigation-buttons t)
